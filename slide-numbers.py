@@ -27,7 +27,7 @@ numb_color = (0.,94./255.,168./255.)
 size = 0.3
 
 # filetyp; png or pdf, pdf looks better in ppt
-of_type="png"
+of_type="pdf"
 
 
 # nslides loop
